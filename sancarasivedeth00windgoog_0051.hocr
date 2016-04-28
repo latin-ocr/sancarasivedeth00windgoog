@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sancarasivedeth00windgoog_0051.png"; bbox 0 0 2964 4737; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 363 1083 727 1399">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 363 1083 727 1399">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 1083 727 1185; baseline 0 -29"><span class='ocrx_word' id='word_1_1' title='bbox 363 1083 605 1183; x_wconf 82' lang='lat' dir='ltr'><strong>legere</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 653 1109 727 1185; x_wconf 80' lang='lat' dir='ltr'><strong>p(</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 556 1205 727 1279; baseline -0.012 0"><span class='ocrx_word' id='word_1_3' title='bbox 556 1205 654 1279; x_wconf 89' lang='lat' dir='ltr'><strong>Sl.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 707 1226 727 1277; x_wconf 72' lang='lat' dir='ltr'>z</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 364 1322 727 1399; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 364 1322 604 1399; x_wconf 85' lang='lat' dir='ltr'>dubio</span> <span class='ocrx_word' id='word_1_6' title='bbox 656 1324 727 1398; x_wconf 88' lang='lat' dir='ltr'><strong>in</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 259 1445 718 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 259 1445 718 1537">
+     <span class='ocr_line' id='line_1_4' title="bbox 259 1445 718 1537; baseline 0.009 -22"><span class='ocrx_word' id='word_1_7' title='bbox 259 1466 272 1479; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 367 1445 453 1526; x_wconf 79' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 500 1469 718 1537; x_wconf 81' lang='lat' dir='ltr'><strong>versu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1040 278 1683 348">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1040 278 1683 348">
+     <span class='ocr_line' id='line_1_5' title="bbox 1040 278 1683 348; baseline 0.002 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1040 278 1683 348; x_wconf 73' lang='lat'><strong>&#39;-53-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
